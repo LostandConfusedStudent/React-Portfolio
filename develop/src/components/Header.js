@@ -10,13 +10,13 @@ function Header() {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav mr-auto">
 
-                        <div className="nav-link">
-                            <Link to="/Home">Home <span class="sr-only">(current)</span></Link>
-                        </div>
+                    <div className="nav-link">
+                        <Link to="/Home">Home <span class="sr-only">(current)</span></Link>
+                    </div>
 
-                        <div className="nav-link">
-                            <Link to="/Portfolio">Portfolio <span class="sr-only">(current)</span></Link>
-                        </div> 
+                    <div className="nav-link">
+                        <Link to="/Portfolio">Portfolio <span class="sr-only">(current)</span></Link>
+                    </div> 
 
                     <li className="nav-item">
                         <a className="nav-link" href="mailto:pfsun9999@msn.com">Email</a>
@@ -27,9 +27,11 @@ function Header() {
                     <li className="nav-item">
                         <a className="nav-link" href="https://linkedin.com/in/paul-sun-87918598">LinkedIn</a>
                     </li>
-                    <li className="nav-item">
-                        <a className="nav-link" href="https://linkedin.com/in/paul-sun-87918598">Resume</a>
-                    </li>
+
+                    <div className="nav-link">
+                        <Link to="/Resume">Resume <span class="sr-only">(current)</span></Link>
+                    </div> 
+
                 </ul>
             </div>
         </nav>

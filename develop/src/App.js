@@ -3,6 +3,7 @@ import Container from "./components/Container";
 import Header from './components/Header';
 import Home from "./components/Home";
 import Portfolio from "./components/Portfolio";
+import Resume from "./components/Resume";
 import Footer from "./components/Footer";
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
@@ -17,6 +18,7 @@ function App() {
           <Route exact path="/" component = { Home } />
           <Route exact path="/Home" component = { Home } />
           <Route exact path="/Portfolio" component = { Portfolio } />
+          <Route exact path="/Resume" component = { Resume } />
         </Switch>
       </Container>
       <Footer />

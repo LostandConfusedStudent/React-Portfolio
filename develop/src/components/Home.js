@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div className="row">
             <div className="col-md-3">
-                <img src={Profile} alt="Profile" />
+                <img src={ Profile } alt="Profile" />
             </div>
 
             <div className="col-md-9">
