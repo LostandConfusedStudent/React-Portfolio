@@ -1,6 +1,11 @@
 .navbar h1 {
-    padding: 25px 450px 25px 0;
+    align-content: center;
+    padding: 25px 0 25px 0;
     color: #333;
     font-size: 56px;
     width: 100%;
+}
+
+.navbar {
+    margin: 0 390px 0 390px;
 }
