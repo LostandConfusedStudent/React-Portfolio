@@ -1,0 +1,8 @@
+.content {
+    display: inline-flex;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: #eee;
+    padding: 25px 25px 25px 25px;
+    width: 700px;
+}

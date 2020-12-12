@@ -5,6 +5,7 @@ import "../styles/Footer.css";
 function Footer() {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <h1> </h1>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav mr-auto">
                     <li class="nav-item active">
