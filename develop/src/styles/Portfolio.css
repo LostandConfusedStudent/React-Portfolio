@@ -1,0 +1,19 @@
+h2 {
+    padding-top: 25px;
+}
+
+h3 {
+    padding-left: 25px;
+}
+
+p {
+    width: 600px;
+}
+
+.project {
+    width: 500px;
+}
+
+a {
+    display: block;
+}

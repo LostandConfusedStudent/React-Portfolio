@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const Resume = () => {
     return (
         <div>
-            <img src={ myResume } alt="Resume" />
+            <img src={ myResume } className="resume" alt="Resume" />
         </div>
     )
 }

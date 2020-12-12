@@ -30,9 +30,10 @@ function Footer() {
                         <a className="nav-link" href="https://linkedin.com/in/paul-sun-87918598">LinkedIn</a>
                     </li>
 
-                    <li className="nav-item">
-                        <a className="nav-link" href="https://linkedin.com/in/paul-sun-87918598">Resume</a>
-                    </li>
+                    <div className="nav-link">
+                        <Link to="/Resume">Resume <span class="sr-only">(current)</span></Link>
+                    </div>
+                    
                 </ul>
             </div>
         </nav>
