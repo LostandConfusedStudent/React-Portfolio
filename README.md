@@ -6,8 +6,8 @@ This is the homework for week twenty. The point is to create a portfolio page us
 
 ## Screenshots
 
-![Screenshot1](develop/public/assets/images/Screenshot1.png)
-![Screenshot2](develop/public/assets/images/Screenshot2.png)
+![Screenshot1](develop/src/assets/images/Screenshot1.png)
+![Screenshot2](develop/src/assets/images/Screenshot2.png)
 
 ## Links
 
